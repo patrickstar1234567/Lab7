@@ -1,0 +1,47 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.input-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input-container input {
+    margin: 0 10px;
+    padding: 5px;
+    width: 100px;
+    font-size: 16px;
+}
+
+.input-container button {
+    padding: 5px 10px;
+    font-size: 16px;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+thead {
+    background-color: #f4f4f4;
+}
+
+tfoot {
+    font-weight: bold;
+    background-color: #e8f4f8;
+}
